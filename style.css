@@ -11,3 +11,14 @@ h6,
 .w3-wide {
   font-family: "Montserrat", sans-serif;
 }
+.text {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+.text2 {
+  font-size: 20px;
+
+  font-family: "Times New Roman", Times, serif;
+}
